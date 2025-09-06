@@ -26,7 +26,7 @@ async def run_memory_chat():
 
     print("\n-------Chat Session Started-------")
     print("Type 'quit' to end the session")
-    print("Type 'clear' to clear the conversation history")
+    print("Type 'clear' to clear the conversation history.")
     print("-----------------------------------")
 
     
